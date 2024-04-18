@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+
+#form{
+    border: 2 px solid greenyellow;
+    width: 400px;
+    background-color: chocolate;
+    text-align: center;
+}
